@@ -1,0 +1,12 @@
+# 不提交本机连接配置、密码、数据库文件和个人简历
+.env
+.env.*
+.dbeaver/
+.metadata/
+data-sources*.json
+credentials*
+*.db
+*.sqlite*
+*.docx
+*.pdf
+__pycache__/
